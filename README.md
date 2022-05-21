@@ -12,15 +12,16 @@
 <br>
 <br>
 
-# :calendar: 프로젝트 기간
+# :calendar: 프로젝트 
 
 >2022.04.18 -2022.05.13
+>-Green Project
 
 <br>
 <br>
 
 
-# :books: 플랫폼 구성
+# :books: 사용해본 툴...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
